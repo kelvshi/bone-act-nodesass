@@ -1,0 +1,22 @@
+{
+  "name": "bone-act-nodesass",
+  "version": "0.0.1",
+  "description": "bone sass act",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bone",
+    "sass"
+  ],
+  "dependencies": {
+    "node-sass": "^4.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvshi/bone-act-nodesass.git"
+  },
+  "author": "kelvshi",
+  "license": "MIT"
+}
