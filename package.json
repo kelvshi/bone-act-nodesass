@@ -1,6 +1,6 @@
 {
   "name": "bone-act-nodesass",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "bone sass act",
   "main": "index.js",
   "scripts": {
